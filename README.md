@@ -1,3 +1,4 @@
+
 ### Kütüphane Uygulaması
 
 
@@ -24,4 +25,10 @@ Projenin canlı haline aşağıdaki bağlantı üzerinden ulaşabilirsiniz:
  Kitap detay sayfası  
  Veritabanı bağlantısı (örnek veya gerçek API)  
  Responsive (mobil uyumlu) arayüz  
+
+=======
+#kütüphane sitesi
+ad-soyad:mehmet taşcı
+üniversite:Süleyman Demirel Üniversitesi
+ogr-no:2321032012
 
